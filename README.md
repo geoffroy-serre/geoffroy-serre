@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geoffroy-serre" alt="geoffroy-serre" /></a> </p>
 
-- 🔭 I’m currently working on **Smite Roll - Android**
+- 🔭 I’m currently working on **Apprentissage React JS**
 
-- 🌱 I’m currently learning **Angular, Android**
+- 🌱 I’m currently learning **Javascript, ReactJS**
 
-- 👯 I’m looking to collaborate on **something funny and usefull for my hobby**
+- 👯 I’m looking to collaborate on **Something funny and usefull for my hobby**
 
-- ⚡ Fun fact **I like Java but I don't drink coffee.**
+- ⚡ Fun fact **Is the Stargate's dhd coded in Java or JS... (dont say in C let me dream :p )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
