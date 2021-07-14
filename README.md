@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Something funny and usefull for my hobby**
 
-- ⚡ Fun fact **Is the Stargate's dhd coded in Java or JS... (dont say in C let me dream :p )**
+- ⚡ Fun fact **Is the Stargate's dhd coded in Java or JS...? (dont say in C let me dream :p )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
